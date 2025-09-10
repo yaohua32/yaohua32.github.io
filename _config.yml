@@ -23,12 +23,12 @@ repository               : "yaohua32/yaohua32.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yaohua Zang"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc"
   location         : "Munich, Germany"
-  employer         : "Technische Universität München"
+  employer         : "TUM"
   uri              : # URL
   email            : "yaohua.zang@tum.de" 
 
