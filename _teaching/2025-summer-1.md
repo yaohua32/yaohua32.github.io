@@ -8,16 +8,14 @@ date: 2025-04-23
 location: "Munich, Germany"
 ---
 
-This course is taught in TUM jointly by Yaohua Zang, Koutsourelakis Faidon-Stelios, and Scholz Vincent in Summer 2025.
-
-Course Objectives
+Objectives
 ======
 - Understand deep learning fundamentals and learn to build/train neural networks in PyTorch.
 - Develop familiarity with deep learning approaches for solving PDEs.
 - Gain hands-on experience implementing deep learning algorithms for PDEs.
 - Apply these methods to real-world engineering physics problems.
 
-Content of the Course
+Contents
 ======
 - **Deep Learning Basics**: Introduction to artificial neural networks (ANNs) and implementing and training ANNs with PyTorch
 - **Classical PDE Methods**: PDE fundamentals and classical numerical methods, such as FEM and FDM.
@@ -28,6 +26,6 @@ Content of the Course
   - Deep Neural Operator Network (**DeepONet**)
   - Fourier Neural Operator (**FNO**)
 
-Course Resources
+Resources
 ======
 - [Course Page](https://github.com/yaohua32/Deep-Learning-for-PDEs-in-Engineering-Physics-2025-Summer)

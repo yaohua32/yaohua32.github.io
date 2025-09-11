@@ -8,19 +8,15 @@ redirect_from:
 ---
 Yaohua Zang is a Postdoctoral Researcher at the School of Engineering and Design, Technical University of Munich, working with [Prof. Faidon-Stelios Koutsourelakis](https://www.professoren.tum.de/en/koutsourelakis-phaedon-stelios). His research lies at the intersection of artificial intelligence and scientific computing (AI4Science). In particular, he focus on inverse materials design with deep generative models, physics-informed machine learning for PDEs, and deep learning-based approaches for inverse problems.
 
-Education
+Brief CV
 ======
-- 09/2015 - 06/2021 Ph.D., Computing Mathematics, Zhejiang University
-  - Supervisor: [Prof. Gang Bao](https://person.zju.edu.cn/en/0010297)
-- 08/2018 - 08/2019 Visiting Ph.D., Applied Mathematics, Georgia Institute of Technology
+- Postdoctoral Scholar, School of Engineering and Design, TUM, Germany, 2023-present
+- Researcher, Huawei Hangzhou Research Center, China, 2021-2013
+- Visiting Ph.D.,  School of Mathematics, Georgia Tech, USA, 2018-2019
   - Supervisor: [Prof. Haomin Zhou](https://hmzhou.math.gatech.edu/)
-- 09/2011 - 06/2015 B.Sc., Information & Computational Science, Jilin University
-
-<!-- Working Experience
-======
-- 10/2023 - Present: Postdoc., Technical University of Munich
-- 07/2021 - 07/2023: Researcher, Huawei Research Institute -->
-
+- Ph.D., Department of Mathematics, Zhejiang University, China, 2015-2021
+  - Supervisor: [Prof. Gang Bao](https://person.zju.edu.cn/en/0010297)
+- B.Sc., Department of Mathematics, Jilin University, China, 2011-2015
 
 Research Interests
 ======
@@ -47,5 +43,10 @@ Publications
 
 Contact Information
 ======
+School of Engineering and Design
+Technische Universität München
+Boltzmannstraße 15
+D-85748 Garching b. München
+Office: Room 5504.EG.438
 E-mail: yaohua.zang[at]tum[dot]de
 
