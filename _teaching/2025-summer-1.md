@@ -8,7 +8,7 @@ date: 2025-04-23
 location: "Munich, Germany"
 ---
 
-Lecturer: Yaohua Zang \& Scholz Vincent
+Lecturer: Yaohua Zang & Scholz Vincent
 
 
 Objectives
