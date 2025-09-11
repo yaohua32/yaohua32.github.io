@@ -40,13 +40,11 @@ Publications
 - **Yaohua Zang**, Gang Bao, Xiaojing Ye, Haomin Zhou. (2020). [Weak adversarial networks for high-dimensional partial differential equations](https://doi.org/10.1016/j.jcp.2020.109409). *Journal of Computational Physics*, 411, 109409.
 - **Yaohua Zang**, Gang Bao, Xiaojing Ye, Hongyuan Zha, Haomin Zhou. (2020). [A jump stochastic differential equation approach for influence prediction on heterogeneous networks](https://link.intlpress.com/JDetail/1806262189797363713). *Communications in Mathematical Sciences*, 18(8), 2341-2359.
 
-
 Contact Information
 ======
-School of Engineering and Design
-Technische Universität München
-Boltzmannstraße 15
-D-85748 Garching b. München
-Office: Room 5504.EG.438
+School of Engineering and Design  
+Technische Universität München  
+Boltzmannstraße 15  
+D-85748 Garching b. München  
+Office: Room 5504.EG.438  
 E-mail: yaohua.zang[at]tum[dot]de
-
