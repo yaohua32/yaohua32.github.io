@@ -22,9 +22,16 @@ Working Experience
 
 Research Interests
 ======
-- Physics-informed machine learning for PDEs
-- Inverse materials design
-- Deep learning-based approaches for inverse problems
+AI4Science, Inverse Problems, Numerical PDEs, Inverse Material Design, Machine Learning Enhanced Optimal Control
+
+
+Publications
+======
+#### Preprints
+- 
+
+#### Papers
+- {{\bf Yaohua Zang}, *Phaedon-Stelios Koutsourelakis. (2025). PSP-GEN: Stochastic inversion of the Process-Structure-Property chain in materials design through deep, generative probabilistic modeling. \emph{Acta Materialia, 284,} 120600.} 
 
 
 Contact Information
