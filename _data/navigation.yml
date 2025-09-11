@@ -24,7 +24,8 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: 'http://yaohua32.github.io/files/slides1.pdf'
+    # url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
