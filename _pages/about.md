@@ -14,10 +14,10 @@ Education
 - 08/2018 - 08/2019: Visiting Ph.D., Applied Mathematics, Georgia Institute of Technology
 - 09/2011 - 06/2015: B.Sc., Information & Computational Science, Jilin University
 
-Working Experience
+<!-- Working Experience
 ======
 - 10/2023 - Present: Postdoc., Technical University of Munich
-- 07/2021 - 07/2023: Researcher, Huawei Research Institute
+- 07/2021 - 07/2023: Researcher, Huawei Research Institute -->
 
 
 Research Interests
@@ -30,6 +30,7 @@ Publications
 ### Preprints
 - **Yaohua, Zang**, Phaedon-Stelios Koutsourelakis. (2025). [Design-GenNO: A Physics-Informed Generative Model with Neural Operators for Inverse Microstructure Design](https://arxiv.org/abs/2509.08749). *arXiv preprint arXiv:2502.06250*.
 - Gang, Bao, **Yaohua, Zang**. (2025). [ParticleWNN: a Novel Neural Networks Framework for Solving Partial Differential Equations](https://arxiv.org/abs/2305.12433). *arXiv preprint arXiv:2509.08749*.
+
 ### Papers 
 - **Yaohua Zang**, Phaedon-Stelios Koutsourelakis. (2025). [DGenNO: a novel physics-aware neural operator for solving forward and inverse PDE problems based on deep, generative probabilistic modeling](https://doi.org/10.1016/j.jcp.2025.114137). *Journal of Computational Physics, 538*, 114137.
 - Wei Hu, Jihao Long, **Yaohua Zang**, Weinan E, *Jiequn Han. (2025). [Solving optimal control problems of rigid-body dynamics with collisions using the hybrid minimum principle](https://doi.org/10.1016/j.cnsns.2025.108603). *Communications in Nonlinear Science and Numerical Simulation, 143*, 108603.
