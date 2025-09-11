@@ -3,8 +3,8 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from: 'http://yaohua32.github.io/files/cv.pdf'
-  # - /resume
+redirect_from:
+  - /resume
 ---
 
 <!-- {% include base_path %}
