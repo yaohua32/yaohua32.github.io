@@ -28,10 +28,8 @@ AI4Science, Inverse Problems, Numerical PDEs, Inverse Material Design, Machine L
 Publications
 ======
 #### Preprints
-- 
-
+- **Yaohua Zang**, Phaedon-Stelios Koutsourelakis. (2025). PSP-GEN: Stochastic inversion of the Process-Structure-Property chain in materials design through deep, generative probabilistic modeling. Acta Materialia, 284, 120600.
 #### Papers
-- {{\bf Yaohua Zang}, *Phaedon-Stelios Koutsourelakis. (2025). PSP-GEN: Stochastic inversion of the Process-Structure-Property chain in materials design through deep, generative probabilistic modeling. \emph{Acta Materialia, 284,} 120600.} 
 
 
 Contact Information
