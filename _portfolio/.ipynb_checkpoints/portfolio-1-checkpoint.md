@@ -1,6 +1,6 @@
 ---
 title: "Project: Weak Adversarial Networks"
-excerpt: "<center><img src='/images/WAN.jpg'/><br><div style='color:gray'>The Structure of WAN</div></center>"
+excerpt: "<center><img src='/images/WAN.jpg' width = "500" height='300'/><br><div style='color:gray'>The Structure of WAN</div></center>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Project: PSP-GEN"
-excerpt: "<center><img src='/images/PSP.png' width = "500" height='300'/><br><div style='color:gray'>The PSP-GEN framework</div></center>"
+excerpt: "<center><img src='/images/PSP.png'/><br><div style='color:gray'>The PSP-GEN framework</div></center>"
 collection: portfolio
 ---
 
