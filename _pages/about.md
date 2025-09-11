@@ -30,8 +30,9 @@ Publications
 ### Preprints
 - **Yaohua, Zang**, Phaedon-Stelios Koutsourelakis. (2025). [Design-GenNO: A Physics-Informed Generative Model with Neural Operators for Inverse Microstructure Design](https://arxiv.org/abs/2509.08749). *arXiv preprint arXiv:2502.06250*.
 - Gang, Bao, **Yaohua, Zang**. (2025). [ParticleWNN: a Novel Neural Networks Framework for Solving Partial Differential Equations](https://arxiv.org/abs/2305.12433). *arXiv preprint arXiv:2509.08749*.
-  
 ### Papers 
+- **Yaohua Zang**, Phaedon-Stelios Koutsourelakis. (2025). [DGenNO: a novel physics-aware neural operator for solving forward and inverse PDE problems based on deep, generative probabilistic modeling](https://doi.org/10.1016/j.jcp.2025.114137). *Journal of Computational Physics, 538*, 114137.
+- Wei Hu, Jihao Long, **Yaohua Zang**, Weinan E, *Jiequn Han. (2025). [Solving optimal control problems of rigid-body dynamics with collisions using the hybrid minimum principle](https://doi.org/10.1016/j.cnsns.2025.108603). *Communications in Nonlinear Science and Numerical Simulation, 143*, 108603.
 - **Yaohua Zang**, Phaedon-Stelios Koutsourelakis. (2025). [PSP-GEN: Stochastic inversion of the Process-Structure-Property chain in materials design through deep, generative probabilistic modeling](https://doi.org/10.1016/j.actamat.2024.120600). *Acta Materialia, 284*, 120600.
 - Vincent C Scholz, **Yaohua Zang**, Phaedon-Stelios Koutsourelakis. (2025). [Weak neural variational inference for solving Bayesian inverse problems without forward models: applications in elastography](https://doi.org/10.1016/j.cma.2024.117493). *Computer Methods in Applied Mechanics and Engineering, 433*, 117493.
 - Hanwen Kang, **Yaohua Zang**, Xing Wang, Yaohui Chen. (2022). [Uncertainty-driven Spiral Trajectory for Robotic Peg-in-Hole Assembly](https://ieeexplore.ieee.org/document/9780009). *IEEE Robotics and Automation Letters 7*(3), 6661-6668.
