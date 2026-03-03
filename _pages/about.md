@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Yaohua Zang is a Postdoctoral Researcher at the School of Engineering and Design, Technical University of Munich, working with [Prof. Faidon-Stelios Koutsourelakis](https://www.professoren.tum.de/en/koutsourelakis-phaedon-stelios). His research lies at the intersection of artificial intelligence and scientific computing (AI4Science). In particular, he focus on inverse materials design with deep generative models, physics-informed machine learning for PDEs, and deep learning-based approaches for inverse problems.
+Yaohua Zang is a Research Associate at the School of Engineering and Design at the Technical University of Munich (TUM), where he works with Prof. Phaedon-Stelios Koutsourelakis. His research lies at the intersection of artificial intelligence and scientific computing. In particular, he focus on inverse materials design with deep generative models, physics-informed machine learning for PDEs, and deep learning-based approaches for inverse problems.
 
 Brief CV
 ======
-- Postdoctoral Scholar, School of Engineering and Design, TUM, Germany, 2023-present
-- Researcher, Huawei Hangzhou Research Center, China, 2021-2013
+- Research Associate , School of Engineering and Design, TUM, Germany, 2023-present
+- Postdoctoral Scholar, Huawei Hangzhou Research Center, China, 2021-2013
 - Visiting Ph.D.,  School of Mathematics, Georgia Tech, USA, 2018-2019
   - Supervisor: [Prof. Haomin Zhou](https://hmzhou.math.gatech.edu/)
 - Ph.D., Department of Mathematics, Zhejiang University, China, 2015-2021
@@ -26,10 +26,11 @@ AI4Science, Inverse Problems, Numerical PDEs, Inverse Material Design, Machine L
 Publications
 ======
 ### Preprints
-- **Yaohua, Zang**, Phaedon-Stelios Koutsourelakis. (2025). [Design-GenNO: A Physics-Informed Generative Model with Neural Operators for Inverse Microstructure Design](https://arxiv.org/abs/2509.08749). *arXiv preprint arXiv:2502.06250*.
+- Gang, Bao, **Yaohua, Zang**. (2026). [A unified physics-informed generative operator framework for general inverse problems](https://arxiv.org/abs/2511.03241). *arXiv preprint arXiv:2511.03241*.
 - Gang, Bao, **Yaohua, Zang**. (2025). [ParticleWNN: a Novel Neural Networks Framework for Solving Partial Differential Equations](https://arxiv.org/abs/2305.12433). *arXiv preprint arXiv:2509.08749*.
 
 ### Papers 
+- **Yaohua, Zang**, Phaedon-Stelios Koutsourelakis. (2025). [Design-GenNO: A Physics-Informed Generative Model with Neural Operators for Inverse Microstructure Design](https://doi.org/10.1016/j.cma.2025.118597). *Computer Methods in Applied Mechanics and Engineering*, 450, 118597.
 - **Yaohua Zang**, Phaedon-Stelios Koutsourelakis. (2025). [DGenNO: a novel physics-aware neural operator for solving forward and inverse PDE problems based on deep, generative probabilistic modeling](https://doi.org/10.1016/j.jcp.2025.114137). *Journal of Computational Physics*, 538, 114137.
 - Wei Hu, Jihao Long, **Yaohua Zang**, Weinan E, Jiequn Han. (2025). [Solving optimal control problems of rigid-body dynamics with collisions using the hybrid minimum principle](https://doi.org/10.1016/j.cnsns.2025.108603). *Communications in Nonlinear Science and Numerical Simulation*, 143, 108603.
 - **Yaohua Zang**, Phaedon-Stelios Koutsourelakis. (2025). [PSP-GEN: Stochastic inversion of the Process-Structure-Property chain in materials design through deep, generative probabilistic modeling](https://doi.org/10.1016/j.actamat.2024.120600). *Acta Materialia*, 284, 120600.
