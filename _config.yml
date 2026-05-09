@@ -23,7 +23,7 @@ repository               : "yaohua32/yaohua32.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "Profile.jpg"
   name             : "Yaohua Zang"
   pronouns         : # example: "she/her"  
   bio              : "Research Associate"
